@@ -1,3 +1,2 @@
-# gitprac
-practice
-깃을 연습합니다.
+# 211223_project
+#카카오톡프로필만들기
