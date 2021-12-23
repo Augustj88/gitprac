@@ -1,3 +1,3 @@
 # gitprac
 practice
-깃연습해요
+깃을 연습합니다.
