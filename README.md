@@ -1,3 +1,3 @@
 # gitprac
 practice
-df
+깃연습해요
