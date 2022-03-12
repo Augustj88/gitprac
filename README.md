@@ -1,2 +1,3 @@
-# 211223_project
-#카카오톡프로필만들기
+# gitprac
+practice
+git을 연습합니다
