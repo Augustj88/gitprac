@@ -1,0 +1,91 @@
+.overall {
+    width: 480px;
+    height: 800px;
+    border: 1px solid #B2B2B2;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.colorbox {
+    background-color: #9E74B7;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.line{
+    color: #B2B2B2;
+    width: 50px;
+    height: 20px;
+    padding-top: 120px;
+}
+
+.introduce {
+    width: 350px;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.profile_img{
+    width: 150px;
+    height: 150px;
+
+    position: absolute;
+    top: 370px;
+    left: 165px;
+
+    border-radius: 75px;
+}
+
+.bottombox {
+    height: 280px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    margin-top: 70px;
+}
+
+.option {
+    width: 280px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    padding-top: 50px;
+}
+
+.btn {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: none
+}
+
+.btn:hover {
+    opacity: 50%;
+}
+
+.chat {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+}
+
+.profile {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.story {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
